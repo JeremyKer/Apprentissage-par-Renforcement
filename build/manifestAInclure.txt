@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.3
+Created-By: 1.7.0_11-b21 (Oracle Corporation)
+Class-Path: lib/AbsoluteLayout.jar lib/gnujaxp.jar lib/jcommon-1.0.0-r
+ c1.jar lib/jfreechart-1.0.0-rc1.jar lib/junit.jar lib/org-netbeans-mo
+ dules-java-j2seproject-copylibstask.jar lib/servlet.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: learning.Application
